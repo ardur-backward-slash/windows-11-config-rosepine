@@ -17,8 +17,8 @@
 - wm (window manager): [fancywm](github.com/FancyWM/fancywm)
 
 ## windhawk config (for taskbar): made by [lunar-os](github.com/lunar-os) (but i made changes)
-- windows 11 taskbar styler (for 1920x1080p): config
-- taskbar clock customization: config  
-- taskbar tray system icon tweaks: config
-- taskbar labels for windows 11: config
+- windows 11 taskbar styler (for 1920x1080p): [config](https://github.com/ardur-backward-slash/windows-11-config-rosepine/blob/main/windhawk-config/taskbar-styler)
+- taskbar clock customization: [config](https://github.com/ardur-backward-slash/windows-11-config-rosepine/blob/main/windhawk-config/clock)  
+- taskbar tray system icon tweaks
+- taskbar labels for windows 11
 - taskbar height and icon size: (icon size: 16, taskbar height: 40, taskbar button width: 34) 
