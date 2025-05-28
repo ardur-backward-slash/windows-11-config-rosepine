@@ -23,5 +23,3 @@
 - taskbar tray system icon tweaks
 - taskbar labels for windows 11
 - taskbar height and icon size: (icon size: 16, taskbar height: 40, taskbar button width: 34)
-
-(also used RoundedTB for taskbar)
