@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/4501c91f-db3f-4329-99ab-fc19bc2c7f29)
-![image](https://github.com/user-attachments/assets/117b36a6-1ec5-42d2-84cd-2aa5c484b9b1)
+![image](https://github.com/user-attachments/assets/225eeea0-846a-46db-a07a-9fb9f66233c8)
+
 
 <h1 align="center">my windows 11 config! ☁️</h1>
 <p align="center">
@@ -11,7 +12,13 @@
 - color scheme: [rosepine](rosepinetheme.com/)
 - wallpaper: made by [lunar-os](github.com/lunar-os)
 - topbar: [yasb reborn](https://github.com/amnweb/yasb)
-- windhawk config (for taskbar): made by [lunar-os](github.com/lunar-os) (but i made some changes)
 - terminal: windows terminal in focus mode + wsl w/ ubuntu 22.04 (btop+cmatrix+cbonsai)
 - search: flow launcher + config made by [lunar-os](github.com/lunar-os)
 - wm (window manager): [fancywm](github.com/FancyWM/fancywm)
+
+## windhawk config (for taskbar): made by [lunar-os](github.com/lunar-os) (but i made changes)
+- windows 11 taskbar styler (for 1920x1080p): config
+- taskbar clock customization: config  
+- taskbar tray system icon tweaks: config
+- taskbar labels for windows 11: config
+- taskbar height and icon size: (icon size: 16, taskbar height: 40, taskbar button width: 34) 
