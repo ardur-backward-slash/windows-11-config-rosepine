@@ -21,4 +21,5 @@
 - taskbar clock customization: [config](https://github.com/ardur-backward-slash/windows-11-config-rosepine/blob/main/windhawk-config/clock)  
 - taskbar tray system icon tweaks
 - taskbar labels for windows 11
-- taskbar height and icon size: (icon size: 16, taskbar height: 40, taskbar button width: 34) 
+- taskbar height and icon size: (icon size: 16, taskbar height: 40, taskbar button width: 34)
+(also used RoundedTB for taskbar)
