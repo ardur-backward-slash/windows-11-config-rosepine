@@ -15,6 +15,7 @@
 - terminal: windows terminal in focus mode + wsl w/ ubuntu 22.04 (btop+cmatrix+cbonsai)
 - search: flow launcher + config made by [lunar-os](github.com/lunar-os)
 - wm (window manager): [fancywm](github.com/FancyWM/fancywm)
+- taskbar: windhawk + RoundedTB
 
 ## windhawk config (for taskbar): made by [lunar-os](github.com/lunar-os) (but i made changes)
 - windows 11 taskbar styler (for 1920x1080p): [config](https://github.com/ardur-backward-slash/windows-11-config-rosepine/blob/main/windhawk-config/taskbar-styler)
@@ -22,4 +23,5 @@
 - taskbar tray system icon tweaks
 - taskbar labels for windows 11
 - taskbar height and icon size: (icon size: 16, taskbar height: 40, taskbar button width: 34)
+
 (also used RoundedTB for taskbar)
