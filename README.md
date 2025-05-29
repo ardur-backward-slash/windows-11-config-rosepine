@@ -15,7 +15,7 @@
 - wallpaper: made by [lunar-os](github.com/lunar-os)
 - topbar: [yasb reborn](https://github.com/amnweb/yasb)
 - terminal: windows terminal in focus mode + wsl w/ ubuntu 22.04 (btop+cmatrix+cbonsai)
-- search: flow launcher + config made by [lunar-os](github.com/lunar-os)
+- search: flow launcher + [config](https://github.com/ardur-backward-slash/windows-11-config-rosepine/tree/main/flow-launcher-config) made by [lunar-os](github.com/lunar-os)
 - wm (window manager): [fancywm](github.com/FancyWM/fancywm)
 - taskbar: [windhawk](windhawk.net/) + RoundedTB
 
