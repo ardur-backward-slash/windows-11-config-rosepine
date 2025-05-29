@@ -1,5 +1,7 @@
-![image](https://github.com/user-attachments/assets/4501c91f-db3f-4329-99ab-fc19bc2c7f29)
-![image](https://github.com/user-attachments/assets/225eeea0-846a-46db-a07a-9fb9f66233c8)
+![setup /w flow launcher](https://github.com/user-attachments/assets/d26b27b4-540a-47a1-b9d5-a36d910ac02a)
+![setup](https://github.com/user-attachments/assets/42798066-a5d0-4593-8465-10512b7e619e)
+![setup without the cli tools](https://github.com/user-attachments/assets/ada0ef2b-8d02-4783-a4dc-b45309457e48)
+
 
 
 <h1 align="center">my windows 11 config! ☁️</h1>
