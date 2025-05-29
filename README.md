@@ -13,11 +13,11 @@
 
 - color scheme: [rosepine](rosepinetheme.com/)
 - wallpaper: made by [lunar-os](github.com/lunar-os)
-- topbar: [yasb reborn](https://github.com/amnweb/yasb) + [config](https://github.com/ardur-backward-slash/windows-11-config-rosepine/tree/main/yasb-config)
+- topbar: [yasb reborn](https://github.com/amnweb/yasb)
 - terminal: windows terminal in focus mode + wsl w/ ubuntu 22.04 (btop+cmatrix+cbonsai)
 - search: flow launcher + config made by [lunar-os](github.com/lunar-os)
-- wm (window manager): [fancywm](github.com/FancyWM/fancywm) + [config](https://github.com/ardur-backward-slash/windows-11-config-rosepine/tree/main/fancywm-config)
-- taskbar: windhawk + RoundedTB
+- wm (window manager): [fancywm](github.com/FancyWM/fancywm)
+- taskbar: [windhawk](windhawk.net/) + RoundedTB
 
 ## windhawk config (for taskbar): made by [lunar-os](github.com/lunar-os) (but i made changes)
 - windows 11 taskbar styler (for 1920x1080p): [config](https://github.com/ardur-backward-slash/windows-11-config-rosepine/blob/main/windhawk-config/taskbar-styler)
